@@ -7,6 +7,11 @@ Decorate github : https://www.youtube.com/watch?v=onUx22pgiBM
 Iipsum : https://www.lipsum.com/
 teacher : https://www.youtube.com/watch?v=OyTeEjFcEXc
 
+create folder in git hub : https://www.youtube.com/watch?v=VoFV2zNr70M
+Best Profile Generator : https://gprm.itsvg.in/
+github profile generator : https://rahuldkjain.github.io/gh-profile-readme-generator/
+Gif : https://giphy.com/
+
 - 👋 Hi, I’m @cryptoclaw
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
