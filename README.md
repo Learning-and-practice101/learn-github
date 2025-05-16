@@ -12,7 +12,7 @@ Best Profile Generator : https://gprm.itsvg.in/ <br />
 github profile generator : https://rahuldkjain.github.io/gh-profile-readme-generator/ <br />
 Gif : https://giphy.com/ <br />
 
-svg : https://readme-typing-svg.herokuapp.com/demo/?lines=Hi+There!%F0%9F%91%8B;I%27m+cryptoclaw
+svg : https://readme-typing-svg.herokuapp.com/demo/?lines=Hi+There!%F0%9F%91%8B;I%27m+cryptoclaw \
 emoji animation : https://googlefonts.github.io/noto-emoji-animation/
 - 👋 Hi, I’m @cryptoclaw
 - 👀 I’m interested in ...
